@@ -1,1 +1,1 @@
-const playlist = {}
+var playlist = {}
