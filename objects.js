@@ -1,3 +1,3 @@
-var playlist = {
+const playlist = {
   Paul: "Love Me Do"
 }
